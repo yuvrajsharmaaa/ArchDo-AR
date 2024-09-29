@@ -30,9 +30,9 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yuvrajsharmaaa/hackathon.git
-cd hackathon
-Download the accenture.pk file:
+git clone https://github.com/yuvrajsharmaaa/ArchDo-AR?tab=readme-ov-file
+
+Download the accenture.pk file: https://drive.google.com/file/d/1YsCuBR1tGyNwu6LrkZaT7S0_CJV75SbF/view?usp=drive_link
 
 Download the accenture.pk file on your compatible Android phones.
 Running the App

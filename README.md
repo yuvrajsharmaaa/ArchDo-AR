@@ -65,7 +65,9 @@ We welcome contributions from the community. If you’d like to contribute, plea
 
 ## Contact
 If you have any questions or need further assistance, feel free to open an issue or reach out via email.
-LinkedIn Page: https://www.linkedin.com/company/archdo/?viewAsMember=true
-Instagram: https://www.instagram.com/archdo.in?igsh=MW5tbGcwMml2N2E4Ng==
+
+**LinkedIn Page**: https://www.linkedin.com/company/archdo/?viewAsMember=true
+
+**Instagram**: https://www.instagram.com/archdo.in?igsh=MW5tbGcwMml2N2E4Ng==
 
 Thank you for checking out ArchDo! We hope this tool makes your home improvement projects safer and more efficient.

@@ -17,9 +17,11 @@ MetaMask integration isn’t just about cryptocurrency. It’s about creating a 
 **ArchDo Website Role**
 The ArchDo website is designed to offer users a seamless platform to manage their home’s architectural data. It allows you to:
 
+Link your Blockchain wallet to get your BIM blueprints.
 Access and track project information.
 Sync with the app to visualize BIM models online.
 Register or update your home’s architectural details on the blockchain.
+
 ## Getting Started
 **Prerequisites**
 Ensure you have the following software installed:
@@ -38,6 +40,7 @@ Download the accenture.pk file on your compatible Android phones.
 Running the App
 Start the application:
 
+
 bash
 Copy code
 python src/main.py
@@ -48,11 +51,16 @@ Load one of the predefined BIM projects to visualize its features.
 Using the Image Target AR:
 
 Point your device at the predefined image target to trigger the AR experience.
-MetaMask Integration:
 
-Ensure you have MetaMask installed and configured.
-Use the app to register or verify your home’s unique features on the blockchain.
-Contributing
+**MetaMask Integration**:
+
+Ensure you have MetaMask installed and configured you may purchase your BIM blueprints as an nft using Gas.
+**Install MetaMask** on your browser or mobile device.
+**Link your MetaMask wallet** on the ArchDo website to access your home's blueprint and other features.
+Register and verify your home’s details on the blockchain with secure, tamper-proof records.
+
+
+**Contributing**
 We welcome contributions from the community. If you’d like to contribute, please fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
